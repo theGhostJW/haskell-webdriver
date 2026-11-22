@@ -11,3 +11,4 @@ cabal.sandbox.config
 *.hie
 test_runs
 .direnv
+*.log

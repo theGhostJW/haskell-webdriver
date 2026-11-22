@@ -1,0 +1,5 @@
+# Haskell Language Server configuration
+# Specify the library as the primary target to avoid ambiguity
+# between the demo executable and test suite
+arguments:
+  - --stack
